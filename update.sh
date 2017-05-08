@@ -5,3 +5,4 @@ gunzip rko.txt.gz
 wget http://csdb.dk/misc/releases_with_hvsc.php -O csdb.xml
 
 wget ftp://ftp.modland.com/allmods.zip
+unzip allmods.zip
